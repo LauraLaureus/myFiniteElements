@@ -1,0 +1,11 @@
+﻿Compilación iniciada a las 24/11/2015 12:10:12.
+     1>Proyecto "C:\Users\usuario\Desktop\P11_2\tarea2\tarea2\tarea2.vcxproj" en el nodo 2 (Build destinos).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\usuario\Desktop\P11_2\tarea2\x64\Debug\tarea2.exe" /INCREMENTAL /NOLOGO mkl_intel_lp64_dll.lib mkl_sequential_dll.lib mkl_core_dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\usuario\Desktop\P11_2\tarea2\x64\Debug\tarea2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\usuario\Desktop\P11_2\tarea2\x64\Debug\tarea2.lib" /MACHINE:X64 x64\Debug\Main.obj
+         x64\Debug\MEF.obj
+         tarea2.vcxproj -> C:\Users\usuario\Desktop\P11_2\tarea2\x64\Debug\tarea2.exe
+     1>Compilación del proyecto terminada "C:\Users\usuario\Desktop\P11_2\tarea2\tarea2\tarea2.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.31
